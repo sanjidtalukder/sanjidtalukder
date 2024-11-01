@@ -1,94 +1,89 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700;900&display=swap");
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "popping",sans-serif;
+/* reset code starts */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+}
+/* reset code ends */
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.container{
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #2f363e;
+.card {
+  width: 32rem;
+  height: 20rem;
+  background-color: rgb(2, 160, 245);
+  border-radius: 0.6rem;
+  padding: 1rem;
+  color: white;
+  box-shadow: 0.1rem 0.1rem 0.1rem #222, -0.1rem 0 0.1rem #222;
+  font-size: 1.2rem;
+  transition: all 0.3s;
 }
 
-#time{
-    display: flex;
-    gap: 40px;
-    color: #fff;
-
+.card:hover {
+  box-shadow: 0.2rem 0.2rem 0.2rem #222, -0.2rem 0 0.2rem #222;
+}
+.card-title {
+  text-align: center;
+  color: white;
+  margin-bottom: 1rem;
 }
 
-#time .circle{
-    position: relative;
-    width: 150px;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.form-field {
+  margin-bottom: 1rem;
 }
 
-#time .circle svg {
-    position: relative;
-    width: 150px;
-    height: 150px;
-    transform: rotate(270deg);
-
+input {
+  border: none;
+  border: 0.1rem solid;
+  border-radius: 0.6rem;
+  padding: 0.2rem;
+  background-color: rgb(4, 117, 238);
+  color: white;
+  cursor: pointer;
+  font-size: 1.2rem;
+  width: 42%;
 }
 
-#time .circle svg circle{
-    width: 100%;
-    height: 100%;
-    fill: transparent;
-    stroke: #191919;
-    stroke-width: 4px;
-    transform:translate(5px,5px);
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0.8rem 1rem 0;
+}
+.btn {
+  border: none;
+  border: 0.1rem solid;
+  border-radius: 0.6rem;
+  padding: 0.2rem;
+  background-color: rgb(4, 117, 238);
+  cursor: pointer;
+  transition: all 0.3s;
+  font-size: 1.2rem;
 }
 
-#time .circle svg circle:nth-child(2){
-    stroke: var(--color);
-    stroke-dasharray: 440;
+.btn:hover {
+  background-color: white;
 }
 
-#time div{
-    position: absolute;
-    text-align: center;
-    font-size: 1.5rem;
-    font-weight: 500;
-}
-#time div span{
-    position: absolute;
-    transform: translate(-50%,0px);
-    font-size: 0.5rem;
-    font-weight: 300;
-    letter-spacing: 0.1rem;
-    text-transform: uppercase;
-}
-#time .ap{
-    position: relative;
-    font-size: 1rem;
-    transform: translate(-20px);
+p {
+  text-align: center;
 }
 
-.dots{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    z-index: 10;
+.large-text {
+  font-size: 1.5rem;
+  color: bisque;
 }
-.dots::before {
-    content: '';
-    position: absolute;
-    top: -3px;
-    width: 15px;
-    height: 15px;
-    background: var(--color);
-    border-radius: 50%;
-    box-shadow: 0 0 20px var(--color), 0 0 60px var(--color  );
-  }

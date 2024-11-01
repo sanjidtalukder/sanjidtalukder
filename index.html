@@ -1,144 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV project</title>
-    <link rel="stylesheet" href="index.css">
-  <link  https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css>
-</head>
-<body>
-    <!--container start-->
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>guessing game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <div class="container">
-            <!--Header start-->
-        <header>
-            <img class="profile-image" src="image/IMG_20231122_113829.jpg">
-        <div class="bio">
-            <h1>Sanjid Talukder</h1>
-            <h3>Web Desiner</h3>
+      <div class="card">
+        <div class="card-title">
+          <h1>Guessing game</h1>
         </div>
-        <div class="header-contract">
-            <p><a href="mailto:sanjidtalukder02@gmail.com">Email:sanjidtalukder02@gmail.com</a></p>
-            <p><a href="https://sanjid0.1.com">Youtube:sanjid0.1</a></p>
-            <p><a href="tel:+881889876289">Phone:01889876289</a></p>
+        <div class="card-body">
+          <form>
+            <div class="form-field">
+              <label for="guessingNumber">Guess a number between 1-5: </label>
+              <input
+                type="number"
+                id="guessingNumber"
+                min="1"
+                max="5"
+                required
+              />
+            </div>
 
+            <div class="buttons">
+              <button id="check" type="submit" class="btn">check result</button>
+            </div>
+          </form>
+          <p class="resultText"></p>
+          <p class="remainingAttempts"></p>
         </div>
-       
-        </header>
-            <!--header end-->
-            <!--div clear-->
-        <div class="div-clear"></div>
-        <!--horigental for div-->
-        <hr/>
-    <!--main start-->
-       <main>
-        <!--personal section start-->
-        <section id="personal-section">
-            <div class="content">
-                <div class="left-div">
-                    <h1>Personal Information</h1>
-
-                </div>
-                <div class="right-div">
-                    <h4>Address:Nowapara,Hajigonj,Chandpur,Chittagonj.</h4>
-                        <h4>Sex:Male.</h4>
-                        <h4>Date of birth:07-11-2004.</h4>
-                        <h4>Nationality:Bangladesh .</h4>
-                 </div>
-
-            </div>
-        </section>
-        <!--personal section end -->
-
-        <!--clear div-->
-        <div class="div-clear"></div>
-        <hr class="common-hr">
-
-
-         <!--Work section start-->
-         <section id="personal-section">
-            <div class="content">
-                <div class="left-div">
-                    <h1>Work Experience</h1>
-
-                </div>
-                <div class="right-div">
-                    <h1>Private Tutor</h1>
-                    <h2>02-02-2024</h2>
-                    <p><h4>
-                    Private Tutor Self-Employed, Dhaka, Bangladesh January 2024 
-                    Present:
-                    Developed personalized learning plans for students in various subjects, ensuring alignment with their academic goals and learning styles.<br/>
-                    Conducted one-on-one tutoring sessions in subjects including mathematics, science, and English, leading to an average improvement of 20% in student grades.<br/>
-                    Utilized innovative teaching methods to engage students and foster a positive learning environment.<br/>
-                    Collaborated with parents and guardians to provide updates on student progress and discuss strategies for further development.<br/>
-                    Prepared students for competitive exams, resulting in a 75% success rate of students achieving their target scores.<br/>
-                    Adapted to virtual teaching platforms during the pandemic, maintaining high-quality instruction and student engagement.</h4></p><br/>
-                    
-
-                    </div>
-
-            <div class="right-div">
-            <h1>Front-End Developer XYZ Tech Solutions, Dhaka, Bangladesh</h1>
-                    <h2>02-09-2024</h2>
-                    <p><h4>
-                        
-                    Developed and maintained user-friendly web pages using HTML5, CSS3, and JavaScript, resulting in a 35% increase in user engagement.<br/>
-                    Collaborated with a team of 6 designers and 2 product managers to translate design vision into functional web applications.<br/>
-                    Optimized application code for maximum speed and scalability, achieving a 25% improvement in performance.<br/>
-                    Implemented responsive design techniques to ensure compatibility across various devices and browsers.<br/>
-                    Utilized modern JavaScript frameworks like React and Vue.js to create interactive and dynamic user experiences.<br/>
-                    Conducted code reviews and unit testing to maintain high-quality code standards.
-                    Played a key role in the development of 30+ productivity features, which enhanced overall user satisfaction and received over 300 new 5-star UI ratings..</h4></p>
-                    
-
-                </div>
-
-            </div>
-        </section>
-        <!--work section end -->
-      
-     
-           <!--main end-->
-           <!--clear div-->
-        <div class="div-clear"></div>
-        <hr class="common-hr">
-        <!--Education background start-->
-        <section id="personal-section">
-            <div class="content">
-                <div class="left-div">
-                    <h1>Education Information</h1>
-
-                </div>
-                <div class="right-div">
-                    <h1>B.S.C in computer science & Engineering</h1>
-                        <h2>2023-2027</h2>
-                        <h4>Dhaka International Univirsity</h4>
-                        <h4>Satarkul,North-Badda,Dhaka .</h4><br/>
-                 </div>
-
-                 <div class="right-div">
-                    <h1>M.S.C in computer science & Engineering</h1>
-                        <h2>2027-2029</h2>
-                        <h4>Dhaka International Univirsity</h4>
-                        <h4>Satarkul,North-Badda,Dhaka .</h4><br/>
-                 </div>
-
-            </div>
-        </section>
-        <!--Education background start-->
-         <!--clear div-->
-         <div class="div-clear"></div>
-         <hr class="common-hr">
-    </main>
-           <!--footer start-->
-
-       <footer class="bottom">
-    <a href="#">Facebook</a><br/>
-    <a href="#">Youtube</a>
-       </footer>
-        <!--footer end-->
+      </div>
     </div>
-       <!--container end-->
-</body>
+
+    <script src="index.js"></script>
+  </body>
 </html>
