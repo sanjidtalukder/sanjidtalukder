@@ -3,35 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DarkLight</title>
+    <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="work.js"></script>
 </head>
 <body>
-    <div class="switch">Dark mode:
-        <span class="inner-switch">OFF</span>
+    <div class="container">
+        <div id="time">
+            <div class="circle" style="--color:#ff2972">
+                <div class="dots h_dot"></div>
+                <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70" id="hh"></circle>
+                </svg>
+                <div id="hours">00</div>
+            </div>
+            <div class="circle" style="--color:#fee800">
+                <div class="dots m_dot"></div>
+                <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70" id="hh"></circle>
+                </svg>
+                <div id="minutes">00</div>
+            </div>
+            <div class="circle" style="--color:#04fc43">
+                <div class="dots s_dot"></div>
+                <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70" id="hh"></circle>
+                </svg>
+                <div id="seconds">00</div>
+            </div>
+            <div class="ap">
+                <div id="ampm"> AM </div>
+            </div>
+
+        </div>
+
     </div>
-
-    <h1 class="title">Animals</h1>
-
-    <article>
-        <h1>Cat</h1>
-        <p>
-            <small>
-                Cats don’t have a sweet tooth due to a taste receptor mutation.
-They keep their heads level while chasing prey.
-A cat’s hairball is technically called a “bezoar.”
-Cats make about 100 different sounds.
-            </small>
-        </p>
-        <p>The oldest known pet cat predates ancient Egyptian art by 4,000 years.
-            Cats survived falls from over 32 stories onto concrete.
-            Cats are lactose intolerant and should avoid milk.
-            A group of cats is called a “clowder.”
-            Cats communicate with humans through meows.
-            Their purring frequency helps heal muscles and bones. </p>
-    </article> 
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-   <img src="image/cat.jpg">
- <script src="work.js"></script>
+    <script src="work.js"></script>
 </body>
 </html>
