@@ -1,0 +1,66 @@
+body{
+    font-family: arial,sans-serif;
+    margin:0;
+    font-size: 13px;
+  }
+  
+  header .topBar{
+    text-align: right;
+    padding: 5px;
+    font-size: 12px;
+  color: rgba(0,0,0,.54);
+  }
+  
+  
+  header .leftOptions li{
+    display: inline-block;
+    margin-right: 12px;
+    vertical-align: middle;
+  }
+  header .leftOptions li a{
+    text-decoration: none;
+    color: #0f0f0f;
+  }
+
+  header .leftOptions input{
+
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: #4285f4;
+    background: -webkit-linear-gradient(top, #4387fd,#4683ea);
+    background: linear-gradient(top,#4387fb, #4683ea);
+    filter:progid:DXImageTransform.Microsoft.gradinent(startColors=#4387fb,endColorstr=#4683ea,GradierType=0);
+    padding: 6px 12px;
+    font-size: 10px;
+    color:white;
+    border-radius: 1px;
+}
+
+header .leftOptions input:hover{
+    -webkit-box-shadow:0 1px 0 rgba(0,0,0,.15);
+    box-shadow: 0 1px 0 rgba((0,0,0,.15);
+}
+
+.topBarIcon{
+    display: inline-block;
+    position: relative;
+    height: 14px;
+    width: 14px;
+    vertical-align: middle;
+}
+
+.topBarCircle{
+height: 50px;
+width: 50px;
+}
+section .searchArea{
+    text-align: center;
+    margin-top: 55px;
+}
+section .searchArea .logo img{
+    height: 72px;
+}
+section .searchArea .searchBox{
+    display: flex;
+}
