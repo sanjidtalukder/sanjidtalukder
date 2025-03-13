@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Climate Change**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Frontend WebDevelopment**
 
 - 👯 I’m looking to collaborate on **Climate Change**
 
