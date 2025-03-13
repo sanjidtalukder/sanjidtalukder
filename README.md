@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Climate Change**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Frontend webSite**
 
 - 📫 How to reach me **sanjidtalukder02@gmail.com**
 
