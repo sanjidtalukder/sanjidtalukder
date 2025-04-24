@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjid Talukder</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-7d14-61f6-992b-8b675a232795/raw?se=2025-04-20T14%3A30%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=3d14de91-628c-5da8-8878-9ae0addb3018&skoid=3f3a9132-9530-48ef-96b7-fee5a811733f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-19T18%3A29%3A20Z&ske=2025-04-20T18%3A29%3A20Z&sks=b&skv=2024-08-04&sig=wRfOW4pTRYaU8f3Zj7M%2By92N1e8odhnlhxEimzuItx8%3D" /> </p>
+<p align="left"> <img src="https://github.com/sanjidtalukder/Time-Complexity/blob/main/githubProfile.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjidtalukder" alt="sanjidtalukder" /></a> </p>
 
