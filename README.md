@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjid Talukder</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center"> Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://github.com/sanjidtalukder/Time-Complexity/blob/main/GitPropileAdd.gif" /> </p>
 
