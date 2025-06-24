@@ -12,7 +12,8 @@
 
 
 <p align="left">
-  <img src="https://github.com/sanjidtalukder/Time-Complexity/blob/main/GitPropileAdd.gif?raw=true" alt="animated coding" width="100%" />
+<!--   <img src="https://github.com/sanjidtalukder/Time-Complexity/blob/main/GitPropileAdd.gif?raw=true" alt="animated coding" width="100%" /> -->
+  <img src="github-propular-image.gif" width="100%" />
 </p>
 
 <p align="left">
