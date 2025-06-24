@@ -43,7 +43,7 @@
 **sanjidtalukder02@gmail.com**
 
 ### ⚡ Fun fact:
-**I think I am funny 😄**
+**I love building interactive web applications!**
 
 ---
 
