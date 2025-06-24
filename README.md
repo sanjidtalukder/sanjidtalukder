@@ -1,5 +1,5 @@
 <!-- HEADER SECTION WITH BANNER -->
-<div align="center" style="padding: 20px 0; margin-bottom: 8px;">
+<div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=SANJID%20TALUKDER&fontSize=40&fontColor=0C1A3E&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62&descFontColor=1A237E" 
     alt="Sanjid Talukder Banner"
