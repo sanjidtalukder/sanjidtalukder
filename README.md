@@ -39,7 +39,7 @@
 **Climate Change Awareness Projects**
 
 ### 💬 Ask me about:
-**HTML, CSS, JS, React**
+**HTML, CSS, JS, MERN**
 
 ### 📫 How to reach me:
 **sanjidtalukder02@gmail.com**
