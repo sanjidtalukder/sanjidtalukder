@@ -1,7 +1,8 @@
 <!-- HEADER SECTION WITH BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=SANJID%20TALUKDER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=SANJID%20TALUKDER&fontSize=40&fontColor=0C1A3E&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62&descFontColor=1A237E"/>
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0D47A1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello,+I'm+Sanjid+Talukder;Frontend+Web+Developer;MERN+Stack+Learner+🚀;Based+in+Bangladesh+🇧🇩" alt="Typing SVG" />
