@@ -49,7 +49,7 @@
 **sanjidtalukder02@gmail.com**
 
 ### ⚡ Fun fact:
-**I love building interactive web applications!**
+**I once fixed a bug at 3:00 AM and thought I was a genius... until I broke it again at 3:01**
 
 ---
 
