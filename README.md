@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sanjid+Talukder!;MERN+Stack+Developer+%26+ML+Researcher;4x+Accepted+Research+Author+(Springer%2C+Taylor+%26+Francis);NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=👋+Hello,+World!+I'm+Md+Sanjid+Talukder;💻+Software+Engineer+%26+MERN+Stack+Developer;🔬+Published+ML+Researcher+(Springer+%7C+Taylor+%26+Francis);🏆+NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing Banner" />
   </a>
 </div>
 
