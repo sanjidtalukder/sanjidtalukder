@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=MD%20SANJID%20TALUKDER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20ML%20Researcher&descAlignY=55&descAlign=50&descFontColor=a5b4fc" width="100%" alt="Sanjid Talukder Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=MD%20SANJID%20TALUKDER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20ML%20Researcher&descAlignY=55&descAlign=50&descFontColor=38bdf8" width="100%" alt="Sanjid Talukder Banner" />
 </div>
 
 <div align="center">
@@ -9,42 +9,91 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-sanjid-talukder-08b681320"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sanjidtalukder02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://steady-marshmallow-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/B.Sc_in_CSE-DIU_(CGPA_3.57)-blue?style=for-the-badge" alt="CGPA" />
-  <img src="https://komarev.com/ghpvc/?username=sanjidtalukder&color=0284c7&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/md-sanjid-talukder-08b681320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sanjidtalukder02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sanjidtalukder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://komarev.com/ghpvc/?username=sanjidtalukder&color=0284c7&style=for-the-badge" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sanjidtalukder&color=0284c7&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 Executive Summary
 
-Motivated **Computer Science & Engineering** undergraduate student at **Dhaka International University** (CGPA: 3.57) and experienced **Frontend / MERN Stack Developer** with a solid foundation in **Machine Learning Research**. 
+Driven **Software Engineer & Frontend Specialist** with deep focus on modern web ecosystems and **Machine Learning Research**. Currently pursuing **B.Sc. in Computer Science & Engineering** at **Dhaka International University**.
 
-Proven ability to architect scalable, dynamic web applications with React, Next.js, and modern UI systems, complemented by **4 accepted research publications** in high-impact venues (Springer, Taylor & Francis, Atlantis Press). Recognized leader and **1st Runner-Up at NASA Space Apps Challenge** (2024 & 2025).
+Dedicated to building high-performance, human-centered digital experiences using React, Next.js, and modern architectural patterns. Proven research track record with **4 accepted publications** across world-renowned publishers (Springer, Taylor & Francis, Atlantis Press / Springer Nature), alongside winning **1st Runner-Up at the NASA Space Apps Challenge**.
 
 ---
 
-### 💼 Experience & Key Achievements
+### 💼 Experience & Leadership Highlights
 
 - 🏢 **Frontend Web Developer Intern** — **BridgX** *(6-Month Tenure | Oct 2025 – Mar 2026)*
-  - Built responsive, production-ready interfaces using **React.js, Next.js, Tailwind CSS, Shadcn, and DaisyUI**.
-  - Partnered with senior engineers on component architecture, state management, and reusable UI design systems.
-  - Optimized frontend bundle sizes and ensured cross-browser performance and accessibility.
+  - Developed and maintained responsive, production-ready web interfaces using **React.js, Next.js, Tailwind CSS, Shadcn UI, and DaisyUI**.
+  - Collaborated with senior engineering teams on scalable component structures, UI design systems, and frontend architectural best practices.
+  - Streamlined deployment workflows and enforced strict cross-browser compatibility and responsive performance benchmarks.
 - 🏆 **1st Runner-Up** — **NASA Space Apps Challenge 2025** *(Comilla Region)* & Participant in **2024**.
-- 🎓 **Undergraduate CSE Scholar** — **Dhaka International University (DIU)** *(4th Semester Running, CGPA: 3.57)*.
+- 🎓 **Undergraduate Scholar** — **Dhaka International University (DIU)** *(B.Sc. in CSE)*.
 
 ---
 
 ### 🔬 Research Publications (4 Papers)
 
-| # | Paper ID | Title | Venue & Publisher |
-|---|:---:|---|---|
-| **1** | `5228` | **A Time-Normalized Volatility Measure for Loneliness Expression in Irregular Social Media Data** | *Accepted / Camera-Ready* |
-| **2** | `503` | **Machine Learning-Based Biofilter Selection for Textile Wastewater Treatment in Bangladesh** | **Springer** *LNNS (Lecture Notes in Networks and Systems, BIM 2025)* |
-| **3** | `530` | **Beyond Speed Thresholds: Unsupervised Behavioral Regime Profiling for Vessel Anomaly Detection in Constrained Maritime Corridors** | **Atlantis Press** *(Springer Nature, ACSR)* |
-| **4** | `606` | **Predicting High-Density Traffic Events in a Permanently Slow-Speed Maritime Corridor: An AIS-Based Machine Learning Framework** | **Taylor & Francis Books** |
+| # | Paper ID | Research Title | Venue & Publisher |
+|:---:|:---:|---|---|
+| **01** | `5228` | **A Time-Normalized Volatility Measure for Loneliness Expression in Irregular Social Media Data** | *Accepted / Camera-Ready* |
+| **02** | `503` | **Machine Learning-Based Biofilter Selection for Textile Wastewater Treatment in Bangladesh** | **Springer** *LNNS (Lecture Notes in Networks and Systems, BIM 2025)* |
+| **03** | `530` | **Beyond Speed Thresholds: Unsupervised Behavioral Regime Profiling for Vessel Anomaly Detection in Constrained Maritime Corridors** | **Atlantis Press** *(Springer Nature, ACSR)* |
+| **04** | `606` | **Predicting High-Density Traffic Events in a Permanently Slow-Speed Maritime Corridor: An AIS-Based Machine Learning Framework** | **Taylor & Francis Books** |
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🧠 অনুধাবন AI</h3>
+      <p align="left"><b>Cognitive Flow Learning System:</b> Bangladesh's first adaptive, AI-native learning platform powered by Gemini RAG, real-time Socratic teach-back, cognitive state tracking, and live concept mind mapping.</p>
+      <p align="left"><b>Tech:</b> React, Next.js, Tailwind CSS, Gemini AI, RAG</p>
+      <p align="center">
+        <a href="https://anudhabon-backup.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🚀 Astra Command</h3>
+      <p align="left"><b>Space & Mission Operations Dashboard:</b> High-impact mission telemetry interface built for the NASA Space Apps Challenge, delivering interactive data visualization and spacecraft analytics.</p>
+      <p align="left"><b>Tech:</b> React, Vite, Tailwind CSS, DaisyUI, Data Viz</p>
+      <p align="center">
+        <a href="https://sprightly-beignet-2dfdca.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🔄 SkillSwap</h3>
+      <p align="left"><b>Peer-to-Peer Skill Exchange:</b> A collaborative community platform connecting learners and mentors worldwide to trade technical skills, featuring role management and category matchmaking.</p>
+      <p align="left"><b>Tech:</b> React, Node.js, Express, MongoDB, Tailwind</p>
+      <p align="center">
+        <a href="https://github.com/sanjidtalukder/SkillSwap" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,39 +141,6 @@ Proven ability to architect scalable, dynamic web applications with React, Next.
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🍲 Share The Meal</h4>
-      <p align="center">Full-stack web application designed for community meal sharing with user roles and smooth transitions.</p>
-      <p><b>Tech:</b> React, Tailwind CSS, Framer Motion, Node/Express</p>
-      <p align="center">
-        <a href="https://github.com/sanjidtalukder/Share-The-Meal-Server"><b>Server Repo</b></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🎓 EduSphere</h4>
-      <p align="center">Collaborative ed-tech platform featuring real-time knowledge sharing, role authorization, and sleek UI.</p>
-      <p><b>Tech:</b> React, Tailwind CSS, Framer Motion, Firebase</p>
-      <p align="center">
-        <a href="https://my-edusphere-client.web.app"><b>Live App</b></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🎨 HobbyHub</h4>
-      <p align="center">Community hobby group organizer featuring categorized filtering, user groups, and protected routes.</p>
-      <p><b>Tech:</b> MERN Stack, React, Tailwind CSS, MongoDB</p>
-      <p align="center">
-        <a href="https://github.com/sanjidtalukder"><b>View on GitHub</b></a>
-      </p>
     </td>
   </tr>
 </table>
