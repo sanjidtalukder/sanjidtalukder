@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Md+Sanjid+Talukder;%F0%9F%92%BB+Software+Engineer+%26+MERN+Stack+Developer;%F0%9F%94%AC+Published+ML+Researcher+(Springer+%7C+Taylor+%26+Francis);%F0%9F%8F%86+NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing Banner" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Research_Papers-4_Published-0284c7?style=flat-square&logo=academia" alt="Research" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NASA_Space_Apps-1st_Runner--Up-f59e0b?style=flat-square&logo=nasa" alt="NASA Space Apps" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Industry_Exp-BridgX_Intern-10b981?style=flat-square&logo=react" alt="BridgX Intern" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tech_Focus-MERN_+_AI_Research-8b5cf6?style=flat-square&logo=google" alt="Focus" />
+</p>
+
 
 
 ---
@@ -33,10 +43,10 @@ Dedicated to building high-performance, human-centered digital experiences using
 
 | # | Paper ID | Research Title | Venue & Publisher |
 |:---:|:---:|---|---|
-| **01** | `5228` | **A Time-Normalized Volatility Measure for Loneliness Expression in Irregular Social Media Data** | **Springer** *[LNNS](https://www.springer.com/series/15179) (MIET 2026)*<br/><sub>📌 <i>Indexed in Scopus, EI Compendex, DBLP, SCImago, INSPEC</i></sub> |
-| **02** | `503` | **Machine Learning-Based Biofilter Selection for Textile Wastewater Treatment in Bangladesh** | **Springer** *LNNS (Lecture Notes in Networks and Systems, BIM 2025)* |
-| **03** | `530` | **Beyond Speed Thresholds: Unsupervised Behavioral Regime Profiling for Vessel Anomaly Detection in Constrained Maritime Corridors** | **Atlantis Press** *(Springer Nature, ACSR)* |
-| **04** | `606` | **Predicting High-Density Traffic Events in a Permanently Slow-Speed Maritime Corridor: An AIS-Based Machine Learning Framework** | **Taylor & Francis Books** |
+| **01** | `5228` | **A Time-Normalized Volatility Measure for Loneliness Expression in Irregular Social Media Data**<br/>`NLP` · `Time-Series Analysis` · `Mental Health Informatics` | **Springer** *[LNNS](https://www.springer.com/series/15179) (MIET 2026)*<br/><sub>📌 <i>Indexed in Scopus, EI Compendex, DBLP, SCImago, INSPEC</i></sub> |
+| **02** | `503` | **Machine Learning-Based Biofilter Selection for Textile Wastewater Treatment in Bangladesh**<br/>`Environmental AI` · `Supervised Learning` · `Sustainability` | **Springer** *LNNS (Lecture Notes in Networks and Systems, BIM 2025)* |
+| **03** | `530` | **Beyond Speed Thresholds: Unsupervised Behavioral Regime Profiling for Vessel Anomaly Detection in Constrained Maritime Corridors**<br/>`Unsupervised Learning` · `Anomaly Detection` · `Maritime Intelligence` | **Atlantis Press** *(Springer Nature, ACSR)* |
+| **04** | `606` | **Predicting High-Density Traffic Events in a Permanently Slow-Speed Maritime Corridor: An AIS-Based Machine Learning Framework**<br/>`Traffic Forecasting` · `Spatio-Temporal ML` · `AIS Data` | **Taylor & Francis Books** |
 
 ---
 
@@ -110,6 +120,14 @@ Dedicated to building high-performance, human-centered digital experiences using
 </div>
 
 
+
+---
+
+### 🔭 Current Focus & Engineering Interests
+
+- 🧠 **AI & LLM Integration**: Exploring Retrieval-Augmented Generation (RAG) pipelines, Agentic workflows, and cognitive learning interfaces.
+- ⚡ **Full-Stack Performance**: Crafting end-to-end type-safe web systems using **Next.js 15, TypeScript, TanStack Query, and Zod**.
+- 📊 **Applied Machine Learning**: Designing robust anomaly detection models, spatio-temporal time-series forecasting, and multimodal NLP.
 
 ---
 
