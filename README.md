@@ -87,8 +87,8 @@ Dedicated to building high-performance, human-centered digital experiences using
       <p align="left"><b>Peer-to-Peer Skill Exchange:</b> A collaborative community platform connecting learners and mentors worldwide to trade technical skills, featuring role management and category matchmaking.</p>
       <p align="left"><b>Tech:</b> React, Node.js, Express, MongoDB, Tailwind</p>
       <p align="center">
-        <a href="https://github.com/sanjidtalukder/SkillSwap" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        <a href="https://skill-swap-five-mu.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </p>
     </td>
