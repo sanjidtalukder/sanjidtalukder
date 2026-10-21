@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=👋+Hello,+World!+I'm+Md+Sanjid+Talukder;💻+Software+Engineer+%26+MERN+Stack+Developer;🔬+Published+ML+Researcher+(Springer+%7C+Taylor+%26+Francis);🏆+NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing Banner" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Md+Sanjid+Talukder;%F0%9F%92%BB+Software+Engineer+%26+MERN+Stack+Developer;%F0%9F%94%AC+Published+ML+Researcher+(Springer+%7C+Taylor+%26+Francis);%F0%9F%8F%86+NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing Banner" />
 </div>
 
 
@@ -111,11 +109,7 @@ Dedicated to building high-performance, human-centered digital experiences using
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidtalukder&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjidtalukder&theme=dracula&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</p>
+
 
 ---
 
