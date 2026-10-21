@@ -8,23 +8,7 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-sanjid-talukder-08b681320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:sanjidtalukder02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sanjidtalukder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://komarev.com/ghpvc/?username=sanjidtalukder&color=0284c7&style=for-the-badge" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sanjidtalukder&color=0284c7&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
+
 
 ---
 
