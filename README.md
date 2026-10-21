@@ -35,7 +35,7 @@ Dedicated to building high-performance, human-centered digital experiences using
 
 | # | Paper ID | Research Title | Venue & Publisher |
 |:---:|:---:|---|---|
-| **01** | `5228` | **A Time-Normalized Volatility Measure for Loneliness Expression in Irregular Social Media Data** | *Accepted / Camera-Ready* |
+| **01** | `5228` | **A Time-Normalized Volatility Measure for Loneliness Expression in Irregular Social Media Data** | **Springer** *[LNNS](https://www.springer.com/series/15179) (MIET 2026)*<br/><sub>📌 <i>Indexed in Scopus, EI Compendex, DBLP, SCImago, INSPEC</i></sub> |
 | **02** | `503` | **Machine Learning-Based Biofilter Selection for Textile Wastewater Treatment in Bangladesh** | **Springer** *LNNS (Lecture Notes in Networks and Systems, BIM 2025)* |
 | **03** | `530` | **Beyond Speed Thresholds: Unsupervised Behavioral Regime Profiling for Vessel Anomaly Detection in Constrained Maritime Corridors** | **Atlantis Press** *(Springer Nature, ACSR)* |
 | **04** | `606` | **Predicting High-Density Traffic Events in a Permanently Slow-Speed Maritime Corridor: An AIS-Based Machine Learning Framework** | **Taylor & Francis Books** |
