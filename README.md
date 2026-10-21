@@ -6,15 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Md+Sanjid+Talukder;%F0%9F%92%BB+Software+Engineer+%26+MERN+Stack+Developer;%F0%9F%94%AC+Published+ML+Researcher+(Springer+%7C+Taylor+%26+Francis);%F0%9F%8F%86+NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing Banner" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Research_Papers-4_Published-0284c7?style=flat-square&logo=academia" alt="Research" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NASA_Space_Apps-1st_Runner--Up-f59e0b?style=flat-square&logo=nasa" alt="NASA Space Apps" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Industry_Exp-BridgX_Intern-10b981?style=flat-square&logo=react" alt="BridgX Intern" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tech_Focus-MERN_+_AI_Research-8b5cf6?style=flat-square&logo=google" alt="Focus" />
-</p>
+
 
 
 
