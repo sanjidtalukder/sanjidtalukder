@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=MD%20SANJID%20TALUKDER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20ML%20Researcher&descAlignY=55&descAlign=50&descFontColor=38bdf8" width="100%" alt="Sanjid Talukder Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=MD%20SANJID%20TALUKDER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20ML%20Researcher&descAlignY=55&descAlign=50&descFontColor=38bdf8" width="100%" alt="Sanjid Talukder Banner" />
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sanjid+Talukder!;Frontend+Developer+(MERN+Stack)+%26+ML+Researcher;4x+Accepted+Research+Author+(Springer%2C+Taylor+%26+Francis);NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=80&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sanjid+Talukder!;MERN+Stack+Developer+%26+ML+Researcher;4x+Accepted+Research+Author+(Springer%2C+Taylor+%26+Francis);NASA+Space+Apps+Challenge+1st+Runner-Up" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Executive Summary
 
-Driven **Software Engineer & Frontend Specialist** with deep focus on modern web ecosystems and **Machine Learning Research**. Currently pursuing **B.Sc. in Computer Science & Engineering** at **Dhaka International University**.
+Driven **Software Engineer & MERN Stack Developer** with deep focus on modern web ecosystems and **Machine Learning Research**. Currently pursuing **B.Sc. in Computer Science & Engineering** at **Dhaka International University**.
 
 Dedicated to building high-performance, human-centered digital experiences using React, Next.js, and modern architectural patterns. Proven research track record with **4 accepted publications** across world-renowned publishers (Springer, Taylor & Francis, Atlantis Press / Springer Nature), alongside winning **1st Runner-Up at the NASA Space Apps Challenge**.
 
